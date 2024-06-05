@@ -1,3 +1,27 @@
 body {
 	background-color: white;
 }
+
+h1 {
+    font-family: Arial;
+    background-color: gray;
+    height: 60px;
+    padding-top:30px;
+    padding-bottom:0px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial;
+}
+
+p {
+    font-family: Arial;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    float: right;
+    margin-right: 10px;
+}
